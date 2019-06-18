@@ -1,10 +1,23 @@
 
 html {
-    font-size: 16px;
+    font-size: 28px;
+    background-color: hsla(145, 80%, 45%, 0.5);
 }
 body {
-    font-size: 40px
+    color: rgb(rgb(43, 255, 0), green, blue);
+    font-size: 0.5em;
 }
 .article-item{
     color: hsla(238, 13%, 39%, 0.418);
 }
+.alone-size{
+    color: hsla(0, 91%, 50%, 0.767);
+}
+.blog-item{
+    font-size: 6em;
+    color: rgb(12, 50, 65);
+}
+.contacts-item{
+    font-size: 17px
+}
+
